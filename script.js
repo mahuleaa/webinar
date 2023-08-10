@@ -1,5 +1,5 @@
 // Add font awesome library (FontAwesome CDN link) in the head section of the HTML
-
+ 
 // Handle form submission and show confirmation/thank you message
 function submitForm() {
     const nameInput = document.getElementById('name');
